@@ -1,0 +1,5 @@
+- Hi, I’m @aurokk
+- I’m interested in software design and financial technologies 
+- I’m currently learning flutter and developing a small app for language learning
+- I'm open for work on some startup, interesting mobile or web app
+- You can reach me at [linkedin](https://www.linkedin.com/in/aurokk) or by [email](aurokkez@gmail.com)
