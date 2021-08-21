@@ -1,4 +1,4 @@
-- Hi, I’m @aurokk
+- Hi, I’m Dmitry Kochnev
 - I’m interested in software design and financial technologies 
 - I’m currently learning flutter and developing a small app for language learning
 - I'm open for work on some startup, interesting mobile or web app
